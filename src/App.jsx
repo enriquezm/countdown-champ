@@ -2,6 +2,8 @@ import React from 'react';
 
 class App extends React.Component {
   render() {
-    <div>Countdown Champ</div>
+    return <div>Countdown Champ</div>;
   }
 }
+
+export default App;
